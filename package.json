@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "express": "^4.17.1",
+    "lerna": "^4.0.0",
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "create-react-library": "^3.1.1"
+  }
+}
